@@ -29,5 +29,3 @@ Designed with a clean, user-friendly interface to keep users updated with the la
 ---
 
 
-# Start the development server
-npm start
